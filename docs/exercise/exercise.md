@@ -16,7 +16,7 @@ Socrative-light
 
 ## Project confirmation
 
-< to be filled by lecturer>
+confirmed
 
 
 ## Project delivery <to be filled by student>
