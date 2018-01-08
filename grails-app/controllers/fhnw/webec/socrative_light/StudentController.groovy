@@ -19,7 +19,7 @@ class StudentController {
      * @return view
      */
     def showRooom(Classroom room) {
-        render view: "ShowRooom", model: [room: room]
+        render view: "ShowRoom", model: [room: room]
     }
 
     /**

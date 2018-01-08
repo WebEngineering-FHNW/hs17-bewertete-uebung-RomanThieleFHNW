@@ -5,6 +5,7 @@ class Question {
 
     static belongsTo = [room: Classroom]
     static hasMany = [options: Option]
+    // todo: provide property "answeres"
 
     static mapping = {
         options cascade: 'all-delete-orphan'

@@ -16,6 +16,7 @@
         <div class="answer-list">
             <h3>Answers:</h3>
             <input type="hidden" name="question_ids" value="${question.id}" />
+<!-- todo dk: no such property "answers" -->
             <g:each var="answer" in="${question.answers}">
                 <div class="checkbox">
                     <label>
