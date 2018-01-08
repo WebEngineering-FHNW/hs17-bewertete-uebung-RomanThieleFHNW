@@ -36,4 +36,10 @@ I'm particular proud of:
 
 ## Project grading 
 
-< to be filled by lecturer>
+No description html.
+The application starts but due to coding errors, only question creation works.
+
+The project history is not visible in the git log.
+No tests.
+
+Total Grade: 3.9
